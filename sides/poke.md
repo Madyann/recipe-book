@@ -1,5 +1,4 @@
 # Poke recipe
-### f
 
 ## Ingredients
 
